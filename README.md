@@ -1,1 +1,1 @@
-# automatic-exploratory-data-analysis-EDA-
+# automatic exploratory data-analysis (EDA)
